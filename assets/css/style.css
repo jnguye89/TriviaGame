@@ -1,0 +1,31 @@
+.container {
+	background-color: #ba9cbc;
+	width: 600px;
+	height: 600px;
+	margin-top: 50px;
+	background-image: url('../images/disney.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+
+#question {
+	font-size: 20px;
+}
+
+#answer {
+	
+}
+
+.question{
+	font-size: 20px;
+	font-weight: 150;
+}
+
+#timer {
+	font-weight: 300;
+	font-size: 25px;
+}
+
+#grand {
+	font-size: 20px;
+}
